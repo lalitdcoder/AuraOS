@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aura OS</string>
+    <string name="input_hint">What should Aura do?</string>
+    <string name="intent_history_title">Intent History</string>
+    <string name="clear_history">Clear</string>
+    <string name="send">Send</string>
+    <string name="processing">Processing...</string>
+    <string name="empty_state_title">Ask Aura anything</string>
+    <string name="empty_state_hint">Try: "Calendar", "Travel" or "Pizza"</string>
+    <string name="error_server_offline">Python server offline — using local data</string>
+</resources>

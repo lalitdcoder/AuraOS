@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer glow ring (cyan) -->
+    <path
+        android:fillColor="#1967E8F9"
+        android:pathData="M54,18
+            C34.12,18 18,34.12 18,54
+            C18,73.88 34.12,90 54,90
+            C73.88,90 90,73.88 90,54
+            C90,34.12 73.88,18 54,18Z"/>
+
+    <!-- Inner circle (purple) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M54,30
+            C40.74,30 30,40.74 30,54
+            C30,67.26 40.74,78 54,78
+            C67.26,78 78,67.26 78,54
+            C78,40.74 67.26,30 54,30Z"/>
+
+    <!-- Letter A (Aura) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 L42,70 L47,70 L50.5,60 L57.5,60 L61,70 L66,70 Z
+            M54,45 L56,57 L52,57 Z"/>
+
+    <!-- Accent dot (cyan) -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M54,66 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"/>
+</vector>
